@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  .logo a{
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  header i{
+    font-size: 25px;
+    color: #fff;
+    position: relative;
+  }
+  
+  i span{
+    position: absolute;
+    font-size: 16px;
+    background: #fff;
+    color: green;
+    padding: 2px 6px;
+    border-radius: 100%;
+    top: -16px;
+  }
+  
+  #Products img{
+    height: 250px;
+    object-fit: contain;
+  }
+  
+  table img{
+    width: 25%;
+  }
+  
+  input{
+    width: 50%;
+  }
